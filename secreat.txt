@@ -1,0 +1,7 @@
+{
+    "appId": "9b4c1a58-e4e3-4dc6-af02-b79b94f6dc87",
+    "displayName": "azure-cli-2025-03-12-18-13-53",
+    "password": "TW78Q~GsXLcdlPOtPxJIDFdSKMuQCR2HLKuLJbdt",
+    "tenant": "c91b7ac6-3e8b-4500-811a-cc548dd4acb2"
+  }
+  az login --service-principal -u 9b4c1a58-e4e3-4dc6-af02-b79b94f6dc87 -p TW78Q~GsXLcdlPOtPxJIDFdSKMuQCR2HLKuLJbdt --tenant c91b7ac6-3e8b-4500-811a-cc548dd4acb2 
